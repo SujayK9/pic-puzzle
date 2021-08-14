@@ -1,0 +1,33 @@
+div.img61,div.img62, div.img63, div.img64,div.img65,div.img66{
+    width:200px;
+    height: 100px;
+    border: 1px solid rgb(151, 123, 123);
+   
+}
+
+.img61,.img62, .img63, .img64, .img65, .img66{
+    width:200px;
+    height: 100px;
+    border: 1px solid rgb(151, 123, 123);
+
+}
+
+.flex5{
+    display: flex;
+     width:410px;
+    height: 205px;
+    justify-content: center;
+   flex-wrap: wrap;
+   /* flex-direction: column; */
+   align-items: center;
+   margin:10px;
+   margin-left: 470px;
+}
+
+.flex6{
+    margin-top: 110px;
+}
+
+.comp{
+    margin-top: 120px;
+}

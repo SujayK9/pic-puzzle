@@ -1,0 +1,33 @@
+
+
+
+
+div.img41,div.img42, div.img43, div.img44{
+    width:250px;
+    height: 150px;
+    border: 1px solid rgb(151, 123, 123);
+   
+}
+
+.img41,.img42, .img43, .img44{
+    width:250px;
+    height: 150px;
+    border: 1px solid rgb(151, 123, 123);
+
+}
+
+.flex3{
+    display: flex;
+    width:510px;
+    height: 303px;
+    justify-content: center;
+   flex-wrap: wrap;
+   /* flex-direction: column; */
+   align-items: center;
+   margin:10px;
+   margin-left: 450px;
+}
+
+.cong{
+    margin-bottom: 10px;
+}
